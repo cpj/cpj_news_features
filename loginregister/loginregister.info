@@ -1,7 +1,0 @@
-core = "7.x"
-dependencies[] = "panels"
-description = "Login/Register on same page"
-name = "LoginRegister"
-package = "Features"
-project = "loginregister"
-version = "7.x-1.0"
